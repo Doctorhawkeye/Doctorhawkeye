@@ -32,9 +32,8 @@ ___
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/slack/slack-ar21.svg" alt="Slack" height="48"/> </a> 
 </p>
 
-#
-
 ## 📊 Statistics
 
 ![Doctorhawkeye's GitHub stats](https://github-readme-stats.vercel.app/api?username=Doctorhawkeye&theme=great-gatsby&show_icons=true)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Doctorhawkeye&theme=great-gatsby&show_icons=true" alt="my commit status" width="49%" /> </p>
 
