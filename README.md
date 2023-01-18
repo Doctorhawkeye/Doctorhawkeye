@@ -34,6 +34,6 @@ ___
 
 ## 📊 Statistics
 
-![Doctorhawkeye's GitHub stats](https://github-readme-stats.vercel.app/api?username=Doctorhawkeye&theme=great-gatsby&show_icons=true)
+![Doctorhawkeye's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Doctorhawkeye&theme=great-gatsby&show_icons=true)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Doctorhawkeye&theme=great-gatsby&show_icons=true" alt="my commit status" width="49%" /> </p>
 
