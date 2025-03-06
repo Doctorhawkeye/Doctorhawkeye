@@ -3,8 +3,8 @@
 -->
 
 ## As the Doctor says <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Allons-y!
-
-- 🔭 I’m currently working on internal a project at [Roboyo](https://roboyo.global/) Germany/Nuremberg 
+- 🤖 I recently finished my Master Thesis on "Benchmarking tactile performance of robots for collision detection" at KUKA GmbH Germany/Augsburg
+- 🔭 I worked as a junior RPA engineer at [Roboyo](https://roboyo.global/) Germany/Nuremberg 
 - 🌱 I’m currently learning [Solidity, Blockchain, and Smart Contract Course – Beginner to Expert Python Tutorial](https://www.youtube.com/watch?v=M576WGiDBdQ)
 - 📫 How to reach me: doctorhawkeye42@gmail.com
 - ⚡ Fun fact: I get goosebumps everytime when I listen to music
